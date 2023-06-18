@@ -42,7 +42,7 @@
   --user-popout-saturation: 100%;
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
-  --user-popout-blur: 3px;
+  --user-popout-blur: 0px;
   --user-modal-image: url('https://i.imgur.com/5nQ1yP5.png');
   --user-modal-position: center;
   --user-modal-size: cover;
@@ -53,7 +53,7 @@
   --user-modal-saturation: 100%;
   --user-modal-grayscale: 0%;
   --user-modal-invert: 0%;
-  --user-modal-blur: 1px;
+  --user-modal-blur: 0px;
   --home-icon: url('https://clearvision.github.io/icons/discord.svg');
   --home-position: center;
   --home-size: 40px;
